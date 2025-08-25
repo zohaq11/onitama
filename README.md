@@ -1,2 +1,4 @@
 # onitama
-User-controlled board game, played by multiple avatars
+Interactive GUI board game with user-controlled avatars, implementing abstract data types and OOP concepts
+
+🛠️ Python, Pygame, Pytest
